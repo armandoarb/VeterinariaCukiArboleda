@@ -1,0 +1,57 @@
+body {
+    background-color:bisque;
+}
+
+nav {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+ text-align: center;
+ color: red;
+ font-family:'Times New Roman', Times, serif
+ 
+}
+
+.lineaDeTresImagenes {
+    height: 200px;
+}
+
+.fototexto {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 1px;
+}
+
+.fototexto li {
+    display: inline-block;
+}
+
+.fototexto img {
+    padding:40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+footer {
+    position:static;
+    bottom: 0;
+    display:inline-block;
+    text-align: center;
+    
+}
+footer img {
+    height: 2%;
+    width: 2%;
+    padding:15px;
+}
+
+.txt {
+    font-weight: normal;
+    font-size:95%;
+    font-family:monospace;
+}
